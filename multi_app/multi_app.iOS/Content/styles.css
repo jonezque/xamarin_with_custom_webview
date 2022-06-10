@@ -2623,12 +2623,3 @@ mat-row, mat-header-row, mat-footer-row, th.mat-header-cell, td.mat-cell, td.mat
 .mat-simple-snackbar-action {
     color: #ff4081
 }
-
-html, body {
-    height: 100%
-}
-
-body {
-    margin: 0;
-    font-family: Roboto,Helvetica Neue,sans-serif
-}

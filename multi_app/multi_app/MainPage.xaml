@@ -4,7 +4,8 @@
              x:Class="multi_app.MainPage">
 
     <StackLayout>
-      <Button x:Name="button1" Text="C# Send Data" Clicked="OnButtonClicked"/>
+        <Label x:Name="button2" Text="Xamarin Example" />
+        <Button x:Name="button1" Text="C# Send Data" Clicked="OnButtonClicked"/>
         <local:HybridWebView x:Name="hybridWebView" Uri="index.html"
                          VerticalOptions="FillAndExpand" />
     </StackLayout>

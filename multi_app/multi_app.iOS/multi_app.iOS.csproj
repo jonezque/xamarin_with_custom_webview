@@ -140,11 +140,9 @@
     <BundleResource Include="Content\polyfills.js" />
     <BundleResource Include="Content\runtime.js" />
     <BundleResource Include="Content\main.js" />
+    <BundleResource Include="Content\styles.css" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Content\" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Content\styles.css" />
   </ItemGroup>
 </Project>
